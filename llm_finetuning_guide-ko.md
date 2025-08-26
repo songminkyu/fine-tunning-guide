@@ -504,3 +504,6 @@ model = AutoModelForCausalLM.from_pretrained(
 ---
 
 *이 가이드는 2025년 1월 기준으로 작성되었으며, 빠르게 발전하는 분야의 특성상 정기적인 업데이트가 필요합니다.*
+
+### 참고
+https://github.com/songminkyu/fine-tunning
